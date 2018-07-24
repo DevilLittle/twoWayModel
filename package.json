@@ -1,0 +1,19 @@
+{
+  "name": "two_way_model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevilLittle/twoWayModel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevilLittle/twoWayModel/issues"
+  },
+  "homepage": "https://github.com/DevilLittle/twoWayModel#readme"
+}
