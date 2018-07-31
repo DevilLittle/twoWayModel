@@ -8,9 +8,6 @@ function observe(data) {
         defineReactive(data, key, data[key]);
     });
 
-    console.log(Object.keys(data).forEach(function(key) {
-        defineReactive(data, key, data[key]);
-    }));
 }
 
 function defineReactive(data,key,val) {
